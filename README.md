@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Mengze Li 👋
 
-<!--
-**mengzeli-sdu/mengzeli-sdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergraduate student at **Shandong University**, majoring in **Electronic Science and Technology**.
 
-Here are some ideas to get you started:
+My research interests lie in **Computer Vision**, **Deepfake Detection**, **Multimodal Learning**, and **Embodied AI**. I am currently working on **CLIP-based generalizable face forgery detection**, with a focus on visual representation transfer, lightweight fine-tuning, and prototype-based classification.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research
+
+- Working on **CLIP-based Face Forgery Detection**
+- Interested in generalizable visual representation learning
+- Paper currently **under review at IEEE Access**
+- Open-sourcing research code and experimental materials on GitHub
+
+## 🏆 Highlights
+
+- Ranked **2 / 81** in my major
+- GPA: **4.29 / 5.0**
+- **National First Prize**, National University Intelligent Car Competition
+- Strong background in Python, PyTorch, OpenCV, Git, and LaTeX
+
+## 🛠️ Skills
+
+`Python` `PyTorch` `Computer Vision` `OpenCV` `Git` `LaTeX` `C` `Embedded Systems`
+
+## 📫 Contact
+
+- Email: 202300800359@mail.sdu.edu.cn
