@@ -13,7 +13,7 @@ My research interests lie in **Computer Vision**, **Deepfake Detection**, **Mult
 
 ## 🏆 Highlights
 
-- Ranked **2 / 81** in my major
+- Ranked **3 / 81** in my major
 - GPA: **4.29 / 5.0**
 - **National First Prize**, National University Intelligent Car Competition
 - Strong background in Python, PyTorch, OpenCV, Git, and LaTeX
